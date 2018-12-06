@@ -1,4 +1,11 @@
+[File Name]
+
 CAD version of Mr. Calvin's jig, still need 3D printed stops. Also need to know how we will manufacture the parts.
+
+TO DO
+DO IN [ASSEMBLY1], NOT IN [TUBE BEAM]
+Add holes in [tube beam] for toggle clamps
+Constrain Calvin's 3D printed stops and toggle clamps [tube beam]
 
 Base Plate:
 Wood or Sheet Metal

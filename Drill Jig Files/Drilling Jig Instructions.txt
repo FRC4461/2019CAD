@@ -1,0 +1,13 @@
+Name of assembly: Drill Jig Assembly v1
+
+CAD version of Mr. Calvin's jig with student improvements
+
+Base Plate:
+Wood or Sheet Metal
+CNC Milled?
+
+Jig Aluminum Tube (1x1):
+Hand made, copies if needed
+
+$4 for 8 inches/10 inches
+https://www.onlinemetals.com/merchant.cfm?pid=18014&step=4&showunits=inches&id=1270&top_cat=60

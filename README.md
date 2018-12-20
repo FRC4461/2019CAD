@@ -1,5 +1,6 @@
 # 2019CAD
 CAD files for 2019 FRC season
 
+Main assembly file is "Practice Drivebase Assembly 2018 Version"
 
-For .stp file open in Inventor then click "Okay" when the box pops up for importing (don't change anything!). It will take a while to load
+Most of the used files should now be alright to open in 2018 version but the .stp file will still be included if there are still issues.

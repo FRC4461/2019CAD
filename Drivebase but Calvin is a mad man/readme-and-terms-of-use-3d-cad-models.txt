@@ -1,5 +1,5 @@
 ﻿
-EN   Your download at 01/30/2019 on PARTcommunity/PARTserver:
+EN   Your download at 01/31/2019 on PARTcommunity/PARTserver:
 
        Dear user,
        
@@ -7,13 +7,13 @@ EN   Your download at 01/30/2019 on PARTcommunity/PARTserver:
 
        
 
-       AIS2018, 042, 04000-0_rod_guide.ipt
-       AIS2018, 042, 042.iam
-       AIS2018, 042, 040000_rear_head.ipt
-       AIS2018, 042, 042C0000000_0_dummy.ipt
-       AIS2018, 042, 04-3_9462C.ipt
-       AIS2018, 042, C-0420000_rod.ipt
-       AIS2018, 042, D-98.ipt
+       AIS2018, 043-R, 043-R.iam
+       AIS2018, 043-R, D-9.ipt
+       AIS2018, 043-R, 04R000-3_rod_guide.ipt
+       AIS2018, 043-R, 04R0000_rear_head.ipt
+       AIS2018, 043-R, 04R-5_63453C.ipt
+       AIS2018, 043-R, C-043-R0000_rod.ipt
+       AIS2018, 043-R, 043-RC0000000_0_dummy.ipt
 	
        Information for use:
 
